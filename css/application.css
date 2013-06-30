@@ -47,14 +47,18 @@ body {
 }
 
 /* Masthead styles  */
-.masthead h3 {
+.masthead h3, .navbar h3 {
   font-family: 'Open Sans', sans-serif;
   font-weight:300;
   font-size:32px;
   margin-bottom:0;
   color:#333;
 }
-.masthead h4 {
+.navbar h3 {
+  font-size: 24px;
+  margin-top: 0;
+}
+.masthead h4, .navbar h4 {
   font-family: 'Open Sans', sans-serif;
   font-weight:300;
   font-style:italic;
@@ -64,20 +68,23 @@ body {
   .masthead .contact-info {
 
   }
-    .masthead .contact-info ul {
+    .masthead .contact-info ul, .navbar .contact-info ul {
       overflow:hidden;
       float: right;
       margin:0;
     }
-      .masthead .contact-info ul li {
+      .masthead .contact-info ul li, .navbar .contact-info ul li {
         display: block;
         float: left;
         margin: 30px 0 0 30px;
       }
-        .masthead .contact-info ul li:first-child {
+      .navbar .contact-info ul li {
+        margin-top:10px;
+      }
+        .masthead .contact-info ul li:first-child, .navbar .contact-info ul li:first-child {
           margin-left: 0;
         }
-        .masthead .contact-info ul li a {
+        .masthead .contact-info ul li a, .navbar .contact-info ul li a {
           color: #000;
           font-family: 'Open Sans', Futura, Helvetica Neue, Helvetica, sans-serif;
           font-size: .75em;
@@ -91,7 +98,7 @@ body {
           -moz-transition: all .25s;
           transition: all .25s;
         }
-          .masthead .contact-info ul li a:hover {
+          .masthead .contact-info ul li a:hover, .navbar .contact-info ul li a:hover {
             opacity: 1;
             color: #f52a0e;
           }
