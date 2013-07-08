@@ -21,4 +21,8 @@ $(document).ready(function() {
 	    	$("#floating_nav").addClass('hidden');
 	    }	
 	});
+
+	$('.carousel').carousel({
+      interval: 3000
+    });
 });
