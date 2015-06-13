@@ -156,11 +156,14 @@ body {
     font-size: 32px;
     color:#777;
   }
+  .marketing p{
+    margin-right: 5px;
+  }
   .marketing p + h4 {
     margin-top: 28px;
   }
   .marketing .span4, .marketing .span5 {
-    margin-left:10px;
+    margin-left: 10px;
   }
   .marketing .job {
     margin-left:0;
@@ -200,7 +203,7 @@ body {
     }
 .video-modal-header {
   padding: 9px 15px;
-  border-bottom: 1px solid #eee;  
+  border-bottom: 1px solid #eee;
 }
   .video-modal-header .close {
     margin-top: 2px;
