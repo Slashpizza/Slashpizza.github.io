@@ -1,15 +1,140 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="the.dreep.werb" resolutions="1x" timestamp="1491789220211">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492134800095">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="507640681" ref="index"/>
+    <file name="personal7.css" crc="346512231" ref="personal7"/>
+    <file name="prof5.css" crc="4143952511" ref="prof5"/>
+    <file name="personal6.css" crc="530018840" ref="personal6"/>
+    <file name="prof9.css" crc="6720150" ref="prof9"/>
+    <file name="commission5.css" crc="4093355737" ref="commission5"/>
+    <file name="commission6.css" crc="4040305619" ref="commission6"/>
+    <file name="prof6.css" crc="3931742397" ref="prof6"/>
+    <file name="commission4.css" crc="528047784" ref="commission4"/>
+    <file name="personal2.css" crc="501344749" ref="personal2"/>
+    <file name="personal9.css" crc="4223297295" ref="personal9"/>
+    <file name="prof7.css" crc="3952771484" ref="prof7"/>
+    <file name="personal5.css" crc="3982036177" ref="personal5"/>
+    <file name="prof1.css" crc="450656071" ref="prof1"/>
+    <file name="prof8.css" crc="238771521" ref="prof8"/>
+    <file name="prof2.css" crc="253078037" ref="prof2"/>
+    <file name="commission1.css" crc="3989583939" ref="commission1"/>
+    <file name="index.css" crc="222021923" ref="index"/>
+    <file name="prof4.css" crc="3808126123" ref="prof4"/>
+    <file name="commission2.css" crc="3983062826" ref="commission2"/>
+    <file name="personal4.css" crc="158279247" ref="personal4"/>
+    <file name="personal1.css" crc="245194920" ref="personal1"/>
+    <file name="personal3.css" crc="3861921023" ref="personal3"/>
+    <file name="prof3.css" crc="521263022" ref="prof3"/>
+    <file name="personal8.css" crc="4283630250" ref="personal8"/>
+    <file name="commission3.css" crc="3979556870" ref="commission3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4148063285" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="172512987" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index"/>
-    <file name="require.js" crc="4159430777" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
+    <file name="museutils.js" crc="4148063285" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
+    <file name="whatinput.js" crc="86476730" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
+    <file name="museconfig.js" crc="172512987" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
+    <file name="require.js" crc="4159430777" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
   </folder>
-  <file name="index.html" crc="347933830" seo="true" mt="1491789182348" redirect="true"/>
+  <folder name="images">
+    <file name="swish-crop-u151.png" crc="406823800" ref="index"/>
+    <file name="cover image.jpg" crc="4111955065" seo="true" ref="index"/>
+    <file name="swish-crop-u278.png" crc="3882643160" ref="index"/>
+    <file name="pixel boxes.png" crc="3777243520" seo="true" ref="index"/>
+    <file name="swish_alt-crop-u328.png" crc="3791894750" ref="index"/>
+    <file name="swish-crop-u393.png" crc="3882643160" ref="index"/>
+    <file name="infographics.jpg" crc="4142425894" seo="true" ref="index"/>
+    <file name="icons.jpg" crc="4126238213" seo="true" ref="index"/>
+    <file name="concepts_robot.jpg" crc="412209447" seo="true" ref="index"/>
+    <file name="christmas.jpg" crc="82287547" seo="true" ref="index"/>
+    <file name="dau_poster.jpg" crc="4093527600" seo="true" ref="index"/>
+    <file name="concepts_adventurer.jpg" crc="427205104" seo="true" ref="index"/>
+    <file name="vlds.jpg" crc="42086936" seo="true" ref="index"/>
+    <file name="smokeout.jpg" crc="3887344564" seo="true" ref="index"/>
+    <file name="dawg dayz.jpg" crc="520784789" seo="true" ref="index"/>
+    <file name="story_cover.jpg" crc="460051933" seo="true" ref="index"/>
+    <file name="riff_yourself.jpg" crc="3759464802" seo="true" ref="index"/>
+    <file name="wizert_thumb.jpg" crc="340764640" seo="true" ref="index"/>
+    <file name="russelvisuals_logo.jpg" crc="4142819290" seo="true" ref="index"/>
+    <file name="allhunters.jpg" crc="4193167896" seo="true" ref="index"/>
+    <file name="dragons_den.jpg" crc="4115866839" seo="true" ref="index"/>
+    <file name="experiment.jpg" crc="302534945" seo="true" ref="index"/>
+    <file name="penitence.jpg" crc="146448604" seo="true" ref="index"/>
+    <file name="leonitis.jpg" crc="4271075595" seo="true" ref="index"/>
+    <file name="goose.jpg" crc="4270030606" seo="true" ref="index"/>
+    <file name="job_well_team.jpg" crc="484917180" seo="true" ref="index"/>
+    <file name="travis_and_maddie.jpg" crc="4044690089" seo="true" ref="index"/>
+    <file name="sibling_war.jpg" crc="366169195" seo="true" ref="index"/>
+    <file name="hokie_man.jpg" crc="6067062" seo="true" ref="index"/>
+    <file name="jesskimo_show.jpg" crc="298252603" seo="true" ref="index"/>
+    <file name="swish_alt-crop-u422.png" crc="3791894750" ref="index"/>
+    <file name="swish-crop-u451.png" crc="3882643160" ref="index"/>
+    <file name="swish_alt-crop-u516.png" crc="3791894750" ref="index"/>
+    <file name="hat n tassel.png" crc="132040433" seo="true" ref="index"/>
+    <file name="swish-crop-u626.png" crc="3882643160" ref="index"/>
+    <file name="contact_me_t-crop-u659.png" crc="4147406297" ref="index"/>
+    <file name="adam infographic3-01.jpg" crc="4230532348" seo="true" ref="prof1"/>
+    <file name="service vs t-m_draft3-01.jpg" crc="177462789" seo="true" ref="prof1"/>
+    <file name="adam process2_revision5-01-crop-u1502.jpg" crc="4034380169" ref="prof1"/>
+    <file name="robits-crop-u1727.jpg" crc="3832078236" ref="prof2"/>
+    <file name="robit colors!-crop-u1746.jpg" crc="80848218" ref="prof2"/>
+    <file name="robit colors2-crop-u1756.jpg" crc="136921897" ref="prof2"/>
+    <file name="dau poster_1-01.jpg" crc="247369467" seo="true" ref="prof3"/>
+    <file name="fema_poster-01-u1848.png" crc="3929669624" ref="prof3"/>
+    <file name="nara_poster-01-u1860.png" crc="3862457393" ref="prof3"/>
+    <file name="3_coins-u1939.png" crc="3910302187" ref="prof4"/>
+    <file name="crown-u1966.png" crc="4160821207" ref="prof4"/>
+    <file name="coin_pile-u1949.png" crc="341270561" ref="prof4"/>
+    <file name="diamond-u1968.png" crc="506752495" ref="prof4"/>
+    <file name="gold_bar-u2002.png" crc="4063483193" ref="prof4"/>
+    <file name="jewel_pile-u2006.png" crc="383698937" ref="prof4"/>
+    <file name="jewels-u2004.png" crc="57986680" ref="prof4"/>
+    <file name="pearls-u2008.png" crc="4152427414" ref="prof4"/>
+    <file name="treasure_chest-u2070.png" crc="4200138888" ref="prof4"/>
+    <file name="dc, now with background buildings.jpg" crc="455553103" seo="true" ref="prof5"/>
+    <file name="comp test.jpg" crc="133548963" seo="true" ref="prof5"/>
+    <file name="masked_interior2.jpg" crc="4083069823" seo="true" ref="prof5"/>
+    <file name="diz style.jpg" crc="298613960" seo="true" ref="prof6"/>
+    <file name="bruce style.jpg" crc="4276966660" seo="true" ref="prof6"/>
+    <file name="own style.jpg" crc="4199177544" seo="true" ref="prof6"/>
+    <file name="comp practice_3.png" crc="4188564274" seo="true" ref="personal1"/>
+    <file name="gif_animationtest_2.gif" crc="4145930321" seo="true" ref="personal2"/>
+    <file name="practice and fun!!.jpg" crc="3832019774" seo="true" ref="personal3"/>
+    <file name="laugh at yourself_2.jpg" crc="327591420" seo="true" ref="personal4"/>
+    <file name="allhunters anew.png" crc="3947976272" seo="true" ref="personal5"/>
+    <file name="penitence logo -converted-.png" crc="4142558317" seo="true" ref="personal6"/>
+    <file name="wizert.jpg" crc="4284393194" seo="true" ref="personal7"/>
+    <file name="iso 9001.jpg" crc="159645550" seo="true" ref="personal8"/>
+    <file name="leon-itis.jpg" crc="4224518103" seo="true" ref="personal9"/>
+    <file name="senior cruise logo.png" crc="170109707" seo="true" ref="commission1"/>
+    <file name="travis-s thing.jpg" crc="251056505" seo="true" ref="commission2"/>
+    <file name="hokie man.jpg" crc="530981636" seo="true" ref="commission3"/>
+    <file name="job well team.jpg" crc="495409213" seo="true" ref="commission4"/>
+    <file name="sibling_war1.jpg" crc="3947466646" seo="true" ref="commission5"/>
+    <file name="jeskimo!cropped.jpg" crc="4082627392" seo="true" ref="commission6"/>
+  </folder>
+  <file name="index.html" crc="137516465" seo="true" mt="1492134603403" redirect="true"/>
+  <file name="prof1.html" crc="164694632" seo="true" mt="1492133903563" redirect="true"/>
+  <file name="prof2.html" crc="467567042" seo="true" mt="1492133922940" redirect="true"/>
+  <file name="prof3.html" crc="4106422220" seo="true" mt="1492133953539" redirect="true"/>
+  <file name="prof4.html" crc="3855594736" seo="true" mt="1492134102277" redirect="true"/>
+  <file name="prof5.html" crc="244797211" seo="true" mt="1492134119682" redirect="true"/>
+  <file name="prof6.html" crc="4257919531" seo="true" mt="1492134134592" redirect="true"/>
+  <file name="prof7.html" crc="71068999" seo="true" mt="1492133872598" redirect="true"/>
+  <file name="prof8.html" crc="3908771920" seo="true" mt="1492134271484" redirect="true"/>
+  <file name="prof9.html" crc="4232542118" seo="true" mt="1492133878973" redirect="true"/>
+  <file name="personal1.html" crc="282168140" seo="true" mt="1492133970472" redirect="true"/>
+  <file name="personal2.html" crc="82237283" seo="true" mt="1492133990556" redirect="true"/>
+  <file name="personal3.html" crc="88697638" seo="true" mt="1492134007564" redirect="true"/>
+  <file name="personal4.html" crc="4169238859" seo="true" mt="1492134151630" redirect="true"/>
+  <file name="personal5.html" crc="97507740" seo="true" mt="1492134174653" redirect="true"/>
+  <file name="personal6.html" crc="520943327" seo="true" mt="1492134192139" redirect="true"/>
+  <file name="personal7.html" crc="3980609272" seo="true" mt="1492134291968" redirect="true"/>
+  <file name="personal8.html" crc="196311978" seo="true" mt="1492134308835" redirect="true"/>
+  <file name="personal9.html" crc="3912238351" seo="true" mt="1492134327331" redirect="true"/>
+  <file name="commission1.html" crc="4030564912" seo="true" mt="1492134035262" redirect="true"/>
+  <file name="commission2.html" crc="3845544551" seo="true" mt="1492134056688" redirect="true"/>
+  <file name="commission3.html" crc="45553710" seo="true" mt="1492134081288" redirect="true"/>
+  <file name="commission4.html" crc="4220945801" seo="true" mt="1492134208868" redirect="true"/>
+  <file name="commission5.html" crc="43322703" seo="true" mt="1492134230981" redirect="true"/>
+  <file name="commission6.html" crc="527707014" seo="true" mt="1492134248345" redirect="true"/>
 </manifest>
