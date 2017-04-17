@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492445237172">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492445671147">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="prof7.css" crc="534490625" ref="prof7"/>
@@ -36,7 +36,7 @@
     <file name="require.js" crc="4159430777" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
   </folder>
   <folder name="images">
-    <file name="swish-crop-u151.png" crc="4151991431" ref="index"/>
+    <file name="swish-crop-u151.png" crc="406823800" ref="index"/>
     <file name="cover image.jpg" crc="4111955065" seo="true" ref="index"/>
     <file name="swish-crop-u278.png" crc="3882643160" ref="index"/>
     <file name="pixel boxes.png" crc="3777243520" seo="true" ref="index"/>
@@ -112,7 +112,7 @@
     <file name="sibling_war1.jpg" crc="3947466646" seo="true" ref="commission5"/>
     <file name="jeskimo!cropped.jpg" crc="4082627392" seo="true" ref="commission6"/>
   </folder>
-  <file name="index.html" crc="3921869696" seo="true" mt="1492445205865" redirect="true"/>
+  <file name="index.html" crc="3770044965" seo="true" mt="1492445606775" redirect="true"/>
   <file name="prof1.html" crc="4018916532" seo="true" mt="1492137931086" redirect="true"/>
   <file name="prof2.html" crc="3866645346" seo="true" mt="1492137931086" redirect="true"/>
   <file name="prof3.html" crc="3917030827" seo="true" mt="1492137931086" redirect="true"/>
