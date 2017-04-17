@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492442287322">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492445237172">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="prof7.css" crc="534490625" ref="prof7"/>
-    <file name="index.css" crc="188714594" ref="index"/>
+    <file name="index.css" crc="4204239711" ref="index"/>
     <file name="prof1.css" crc="382897362" ref="prof1"/>
     <file name="personal3.css" crc="4247577602" ref="personal3"/>
     <file name="prof6.css" crc="90019512" ref="prof6"/>
@@ -112,7 +112,7 @@
     <file name="sibling_war1.jpg" crc="3947466646" seo="true" ref="commission5"/>
     <file name="jeskimo!cropped.jpg" crc="4082627392" seo="true" ref="commission6"/>
   </folder>
-  <file name="index.html" crc="110086755" seo="true" mt="1492442177023" redirect="true"/>
+  <file name="index.html" crc="3921869696" seo="true" mt="1492445205865" redirect="true"/>
   <file name="prof1.html" crc="4018916532" seo="true" mt="1492137931086" redirect="true"/>
   <file name="prof2.html" crc="3866645346" seo="true" mt="1492137931086" redirect="true"/>
   <file name="prof3.html" crc="3917030827" seo="true" mt="1492137931086" redirect="true"/>
