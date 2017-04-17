@@ -1,31 +1,31 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492137978537">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="russellvisuals.com" resolutions="1x" timestamp="1492442287322">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="personal7.css" crc="532965722" ref="personal7"/>
-    <file name="prof5.css" crc="4254892098" ref="prof5"/>
-    <file name="personal6.css" crc="351551525" ref="personal6"/>
-    <file name="prof9.css" crc="184924331" ref="prof9"/>
-    <file name="commission5.css" crc="4170749156" ref="commission5"/>
-    <file name="commission6.css" crc="4222687726" ref="commission6"/>
-    <file name="prof6.css" crc="3778712192" ref="prof6"/>
-    <file name="commission4.css" crc="337276053" ref="commission4"/>
-    <file name="personal2.css" crc="377674704" ref="personal2"/>
-    <file name="personal9.css" crc="207217979" ref="personal9"/>
-    <file name="prof7.css" crc="3774460833" ref="prof7"/>
-    <file name="personal5.css" crc="3862576876" ref="personal5"/>
-    <file name="prof1.css" crc="314555927" ref="prof1"/>
-    <file name="prof8.css" crc="89681788" ref="prof8"/>
-    <file name="prof2.css" crc="125199173" ref="prof2"/>
-    <file name="commission1.css" crc="3870231166" ref="commission1"/>
-    <file name="index.css" crc="451238679" ref="index"/>
-    <file name="prof4.css" crc="3919074966" ref="prof4"/>
-    <file name="commission2.css" crc="3859514647" ref="commission2"/>
-    <file name="personal4.css" crc="34346098" ref="personal4"/>
-    <file name="personal1.css" crc="100553365" ref="personal1"/>
-    <file name="personal3.css" crc="3981643458" ref="personal3"/>
-    <file name="prof3.css" crc="343074195" ref="prof3"/>
-    <file name="personal8.css" crc="4096798871" ref="personal8"/>
-    <file name="commission3.css" crc="3864005179" ref="commission3"/>
+    <file name="prof7.css" crc="534490625" ref="prof7"/>
+    <file name="index.css" crc="188714594" ref="index"/>
+    <file name="prof1.css" crc="382897362" ref="prof1"/>
+    <file name="personal3.css" crc="4247577602" ref="personal3"/>
+    <file name="prof6.css" crc="90019512" ref="prof6"/>
+    <file name="commission4.css" crc="3890772570" ref="commission4"/>
+    <file name="personal6.css" crc="374163239" ref="personal6"/>
+    <file name="prof9.css" crc="187245114" ref="prof9"/>
+    <file name="commission3.css" crc="362945780" ref="commission3"/>
+    <file name="prof3.css" crc="3836722349" ref="prof3"/>
+    <file name="prof8.css" crc="91551213" ref="prof8"/>
+    <file name="commission2.css" crc="404989984" ref="commission2"/>
+    <file name="prof2.css" crc="82311234" ref="prof2"/>
+    <file name="personal5.css" crc="132684283" ref="personal5"/>
+    <file name="commission6.css" crc="138612513" ref="commission6"/>
+    <file name="personal2.css" crc="3903518439" ref="personal2"/>
+    <file name="personal9.css" crc="35229932" ref="personal9"/>
+    <file name="prof5.css" crc="4094275970" ref="prof5"/>
+    <file name="personal7.css" crc="475932533" ref="personal7"/>
+    <file name="personal1.css" crc="193114248" ref="personal1"/>
+    <file name="personal8.css" crc="4155145912" ref="personal8"/>
+    <file name="prof4.css" crc="232470399" ref="prof4"/>
+    <file name="commission1.css" crc="3800444459" ref="commission1"/>
+    <file name="commission5.css" crc="236584507" ref="commission5"/>
+    <file name="personal4.css" crc="4230232389" ref="personal4"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
@@ -36,7 +36,7 @@
     <file name="require.js" crc="4159430777" ref="index:prof1:prof2:prof3:prof4:prof5:prof6:prof7:prof8:prof9:personal1:personal2:personal3:personal4:personal5:personal6:personal7:personal8:personal9:commission1:commission2:commission3:commission4:commission5:commission6"/>
   </folder>
   <folder name="images">
-    <file name="swish-crop-u151.png" crc="406823800" ref="index"/>
+    <file name="swish-crop-u151.png" crc="4151991431" ref="index"/>
     <file name="cover image.jpg" crc="4111955065" seo="true" ref="index"/>
     <file name="swish-crop-u278.png" crc="3882643160" ref="index"/>
     <file name="pixel boxes.png" crc="3777243520" seo="true" ref="index"/>
@@ -112,29 +112,29 @@
     <file name="sibling_war1.jpg" crc="3947466646" seo="true" ref="commission5"/>
     <file name="jeskimo!cropped.jpg" crc="4082627392" seo="true" ref="commission6"/>
   </folder>
-  <file name="index.html" crc="122893086" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof1.html" crc="4113330544" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof2.html" crc="267678129" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof3.html" crc="3891252468" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof4.html" crc="426923633" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof5.html" crc="4261340940" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof6.html" crc="278324740" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof7.html" crc="505213724" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof8.html" crc="103226336" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="prof9.html" crc="385170441" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal1.html" crc="3896958952" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal2.html" crc="435334474" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal3.html" crc="3891261766" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal4.html" crc="3827122820" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal5.html" crc="168908141" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal6.html" crc="3818227664" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal7.html" crc="3871974135" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal8.html" crc="410623797" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="personal9.html" crc="115187481" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="commission1.html" crc="3826376623" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="commission2.html" crc="3863793261" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="commission3.html" crc="105214522" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="commission4.html" crc="3776788058" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="commission5.html" crc="4093743157" seo="true" mt="1492137931086" redirect="true"/>
-  <file name="commission6.html" crc="3912431543" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="index.html" crc="110086755" seo="true" mt="1492442177023" redirect="true"/>
+  <file name="prof1.html" crc="4018916532" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof2.html" crc="3866645346" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof3.html" crc="3917030827" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof4.html" crc="350394184" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof5.html" crc="4183579596" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof6.html" crc="4271949944" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof7.html" crc="264033147" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof8.html" crc="19329990" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="prof9.html" crc="379121217" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal1.html" crc="3954593873" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal2.html" crc="310053966" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal3.html" crc="3991906715" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal4.html" crc="4167723202" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal5.html" crc="4023223527" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal6.html" crc="4053945820" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal7.html" crc="45502157" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal8.html" crc="129313628" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="personal9.html" crc="4137352440" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="commission1.html" crc="3873909073" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="commission2.html" crc="87180461" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="commission3.html" crc="4060362864" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="commission4.html" crc="309788277" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="commission5.html" crc="4141963995" seo="true" mt="1492137931086" redirect="true"/>
+  <file name="commission6.html" crc="4094734735" seo="true" mt="1492137931086" redirect="true"/>
 </manifest>
